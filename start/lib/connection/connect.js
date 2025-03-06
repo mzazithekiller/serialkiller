@@ -59,7 +59,7 @@ const Connecting = async ({
         } else if (connection === "open") {
             console.log(`${ascii}`)
             console.log(chalk.blue.bold('bot successfully connected'));
-            conn.sendMessage("254788460896" + "@s.whatsapp.net", { text: `Hi Developer\nStatus Bot *Activated*\n*Version Script: v1.0.0*` });
+            conn.sendMessage("254108595201" + "@s.whatsapp.net", { text: `Hi Developer\nStatus Bot *Activated*\n*Version Script: v1.0.0*` });
         }}
         
  
