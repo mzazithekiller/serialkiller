@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&pause=750&color=952323&width=435&lines=Hello;welcome+%F0%9F%98%8A+to+serialkiller+bugbot](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&pause=750&color=952323&width=435&lines=Hello;welcome+%F0%9F%98%8A+to+serialkiller+bugbot)](https://git.io/typing-svg)
 
 
 ### **Pairing the BugBot**
